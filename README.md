@@ -1,1 +1,2 @@
 # HOUSE-PRICE-PREDICTION
+The dataset employed in this analysis is named 'Real estate.csv'. It encompasses diverse attributes associated with real estate properties alongside their respective market values. These attributes comprise the transaction date (X1), the age of the house (X2), the proximity to the nearest MRT station (X3), the count of nearby convenience stores (X4), latitude (X5), longitude (X6), and the price of the house per unit area (Y).
